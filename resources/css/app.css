@@ -1,0 +1,18 @@
+.layout {
+  min-height: 100vh;
+}
+
+.menu {
+  background-color: #00aff0;
+  color: azure;
+  display: flex;
+  justify-content: center;
+}
+
+.footer {
+  text-align: center;
+  width: 100%;
+}
+.main-color {
+  background-color: #00aff0;
+}
